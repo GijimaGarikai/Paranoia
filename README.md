@@ -4,7 +4,7 @@ The Paranoia Game is a simple command-line game implemented in C. The game simul
 
 ## Project Structure
 
-The project consists of several C files and a header file:
+The project consists of several C files and header files:
 
 - `paranoia.c`: Contains the main logic for the Paranoia game, including the game loop and user input handling.
 - `plist.c` and `plist.h`: Implement a linked list data structure to manage the target ring and tagged players.
